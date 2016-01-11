@@ -1,7 +1,7 @@
 # 董小保【Bob Dong】
     
   
-##**[网页版简历](http://github.bobdong.cn/WebResume)**
+##**[网页版简历](http://www.bobdong.cn/WebResume/)**
   
    
    
